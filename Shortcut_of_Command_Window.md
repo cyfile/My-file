@@ -1,5 +1,6 @@
 
 |Action name	|Tool	|Shortcut in Windows |Default Set	Description|
+|------------|-----------|--------|--------|
 |Adjust To Bottom	|Command Window	|	|Scrolls to bottom without moving cursor position|
 |Adjust To Top	|Command Window	|	|Scrolls to top without moving cursor position|
 |Beep	|Command Window	|	|Makes computer's default beep sound|

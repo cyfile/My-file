@@ -10,8 +10,7 @@ https://msdn.microsoft.com/en-us/library/mt720584.aspx
 
 好玩的数学：不可思议的e
 
-
-Python 的 ctypes 的教程   
+MSDN98\SAMPLES\VC98\SDK\SDKTOOLS\SPY\APP\SPYFUNCS.H 
 改dll
 
 

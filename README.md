@@ -20,4 +20,5 @@ MSDN98\SAMPLES\VC98\SDK\SDKTOOLS\SPY\APP\SPYFUNCS.H
    4  kongzhixitongshipin  
 
 
-http://sh-ctfs.ftn.qq.com/ftn_handler/87d95e64f3f7a09eb526d023d728a00ac245bc8cbfef059904f17156eb043718c2bcb7358a90898742fd0dcf1eca771d56d50fd98b26db1b72ba68be7ccf3c69/?fname=%E5%9B%B4%E5%89%BFTED%E5%A4%A7%E9%AD%94%E7%8E%8B1500.w3x&k=78633666a41c99cb6b8bf56e4235511b56070550070252011f5452525c18570d0a551b5f500001195001065e54565a0550575357642063fa95defd322171d7c7f6c4fb93550053041c14051e6408&fr=00&&txf_fid=081f299cd8ae6253a89d453b301a55cc4858ea8b&xffz=382528
+我又在群里上传了一张叫 “pizza 围剿大魔王” 可以12人少打多的地图。名字叫 “pizza 围剿大魔王”。虽然不知道你喜不喜欢，但是我为ted 造地图的热情很高。这张图分为boss队伍和粉丝队，可以1v11，2v10，3v9，等等。主要通过人口限制普通玩家。而boss队伍造兵 造一个出来两个 而且 造的兵都有牛头的4分钟重生。此外为了提高boss队伍英雄的生存能力，还在一开始给了boss们每人两个特殊商店。让boss们可以购买抗磨腰带，魔法护盾护身符等高等级装备。
+该图一上来boss队会有较多资源，可以直接攀科技，同时出兵和英雄。而且boss队伍在2v10的情况下是始终120满人口，无需造人口。而粉丝队人口上限是35。所有人都有一个1万的矿。游戏在半小时之后强制结束，届时若boss队仍有40人口，则boss队获胜。

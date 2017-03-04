@@ -24,7 +24,7 @@ MSDN98\SAMPLES\VC98\SDK\SDKTOOLS\SPY\APP\SPYFUNCS.H
 
 其实我的模型非常简单:
 
-$$\Large\left{\begin{eqnarray} \frac{dx}{dt}&=&Px-Q\\\frac{dy}{dt}&=&Py\end{eqnarray}\right.$$
+\Large\left{\begin{eqnarray} \frac{dx}{dt}&=&Px-Q\\\frac{dy}{dt}&=&Py\end{eqnarray}\right.
 
 
 x:星体发出的光线到地球观测点的距离
@@ -35,7 +35,7 @@ Q:光速
 上式解得:
 
 
-$$\Large\left{\begin{eqnarray} x&=&C_1e^{Pt}+\frac{Q}{P}\\y&=&C_2e^{Pt}\end{eqnarray}\right.$$
+\Large\left{\begin{eqnarray} x&=&C_1e^{Pt}+\frac{Q}{P}\\y&=&C_2e^{Pt}\end{eqnarray}\right.
 
 t=0 时,x=y=147亿光年
 t=147亿年,x=0,y=460亿光年

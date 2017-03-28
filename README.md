@@ -20,30 +20,5 @@ MSDN98\SAMPLES\VC98\SDK\SDKTOOLS\SPY\APP\SPYFUNCS.H
    4  kongzhixitongshipin  
 
 
-这个关于宇宙半径的理解和模型和实际情况有何不同？
-
-其实我的模型非常简单:
-
-\Large\left{\begin{eqnarray} \frac{dx}{dt}&=&Px-Q\\\frac{dy}{dt}&=&Py\end{eqnarray}\right.
 
 
-x:星体发出的光线到地球观测点的距离
-y:发出光线的星体到地球观测点的距离
-P:宇宙膨胀速率
-Q:光速
-
-上式解得:
-
-
-\Large\left{\begin{eqnarray} x&=&C_1e^{Pt}+\frac{Q}{P}\\y&=&C_2e^{Pt}\end{eqnarray}\right.
-
-t=0 时,x=y=147亿光年
-t=147亿年,x=0,y=460亿光年
-
-模型完了.
-
-虽然这个模型简单到我都不好意思发出来,
-但是确实忠实反映了我的理解.
-
-我想知道的是我的这个模型和实际情况有何差异?
-以及那里可以找到 阐述宇宙半径计算方法推导过程 的文献资料?

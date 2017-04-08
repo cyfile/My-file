@@ -19,6 +19,8 @@ MSDN98\SAMPLES\VC98\SDK\SDKTOOLS\SPY\APP\SPYFUNCS.H
    3  puguji  
    4  kongzhixitongshipin  
 
+MSDN订户下载
 
+https://msdn.microsoft.com/zh-cn/subscriptions/downloads/#searchTerm=&ProductFamilyId=606&Languages=en&Architectures=x64&FileExtensions=.iso&PageSize=10&PageIndex=0&FileId=0
 
 

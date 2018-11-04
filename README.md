@@ -23,4 +23,4 @@ MSDN订户下载
 
 https://msdn.microsoft.com/zh-cn/subscriptions/downloads/#searchTerm=&ProductFamilyId=606&Languages=en&Architectures=x64&FileExtensions=.iso&PageSize=10&PageIndex=0&FileId=0
 
-
+https://pan.baidu.com/s/1iWDhQKycDWVEPW2ghWysEQ

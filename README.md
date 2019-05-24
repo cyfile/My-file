@@ -26,15 +26,11 @@ BlzDecPlayerTechResearched
 404790489@qq.com
 @acer19840602@
 
-https://us.battle.net/download/getInstaller?os=win&installer=Warcraft-III-Public-Test-
-
-Setup.exe
+https://us.battle.net/download/getInstaller?os=win&installer=Warcraft-III-Public-Test-Setup.exe
 
 https://us.battle.net/download/getInstaller?os=win&installer=Warcraft-III-Setup.exe
 
-https://www.battle.net/download/getInstallerForGame?
-
-os=win&locale=enUS&version=LIVE&gameProgram=WARCRAFT_3
+https://www.battle.net/download/getInstallerForGame?os=win&locale=enUS&version=LIVE&gameProgram=WARCRAFT_3
 
 -----------------------------------------
 

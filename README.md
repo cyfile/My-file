@@ -1,3 +1,7 @@
+https://v.douyu.com/show/85BAvqxDlZbWG4Lm
+https://v.douyu.com/show/Kp1QM82mO2Vvk4bj
+
+
 https://www.tupianzj.com/meinv/20190819/193247_6.html
 https://m.7160.com/rentiyishu/63249/index_18.html
 https://m.7160.com/rentiyishu/63028/index_28.html
@@ -28,11 +32,6 @@ MSDN98\SAMPLES\VC98\SDK\SDKTOOLS\SPY\APP\SPYFUNCS.H
    3  puguji  
    4  kongzhixitongshipin  
 
-
-ida
-Immunity  Ollydbg
-windbg
-stud pe
 
 琢石成器—Windows 环境下32位汇编程序设计
 

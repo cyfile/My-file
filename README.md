@@ -1,6 +1,4 @@
-https://v.douyu.com/show/85BAvqxDlZbWG4Lm
-https://v.douyu.com/show/Kp1QM82mO2Vvk4bj
-
+https://embed.media/v/7qo7nn-p0w9
 
 https://www.tupianzj.com/meinv/20190819/193247_6.html
 https://m.7160.com/rentiyishu/63249/index_18.html

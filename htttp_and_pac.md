@@ -8,12 +8,23 @@ http://wolaos123.blog.163.com/blog/static/102651333201002092424761/
 http://wolaos123.blog.163.com/blog/static/102651333201002092424761/  
 http://findproxyforurl.com/common-pac-issues/
 
-github 代理服务器源码
 
-github写书
-
-
-课程操作系统
-a清华的 b实验楼的 ,ucore 视频
+---
 
 %%%%%%%%%%
+
+<style>pre {float:left; width:33%; background-color:AliceBlue}</style>
+<PRE>
+在w3school，你可以
+找到你的所有的网教程。
+</PRE>
+
+<PRE>
+在w3school，你可以
+找到你的所有的网教程。
+</PRE>
+
+<PRE>
+在w3school，你可以
+找到你的所有的网教程。
+</PRE>

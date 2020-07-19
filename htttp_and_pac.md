@@ -11,9 +11,4 @@ http://findproxyforurl.com/common-pac-issues/
 
 ---
 
-%%%%%%%%%%
 
-<div style="float:left; width:30%; background-color:AliceBlue   ">两个字222</div>
-<div style="float:left; width:30%; background-color:Magenta  ">两个字222</div>
-
-<div style="float:left; width:30%; background-color:AliceBlue   ">两个字222</div>

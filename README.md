@@ -1,3 +1,6 @@
+https://oo.838av.com/addons/dplayer/?url=https://cdn.aliyun.18sjsk.com/videos/202006/26/5ef4e2348364c806274e8283/ggf0fa/index.m3u8
+
+
 https://embed.media/v/yx93kkgjxqo   
 https://feurl.com/v/yx93kkgjxqo   
 https://embed.media/v/7qo7nn-p0w9

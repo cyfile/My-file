@@ -1,4 +1,4 @@
-https://v.douyu.com/show/yVY8Wwj30EAMLOz9
+https://v.douyu.com/show/a2JEMJjG4R0MNxml
 
 https://oo.838av.com/addons/dplayer/?url=https://cdn.aliyun.18sjsk.com/videos/202006/26/5ef4e2348364c806274e8283/ggf0fa/index.m3u8   
 https://oo.838av.com/addons/dplayer/?url=https://cdn.aliyun.18sjsk.com/videos/202006/29/5ef4e2358364c806274e832b/1338bc/index.m3u8   

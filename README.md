@@ -1,5 +1,5 @@
-
-https://www.9xxx.net/video_57429  
+https://oo.838av.com/addons/dplayer/?url=https://cdn.aliyun.18sjsk.com/videos/202002/11/5e33f0649f8d0e1e32cac896/06g0dg/index.m3u8   
+https://www.9xxx.net/video_57429   
 
 https://oo.838av.com/addons/dplayer/?url=https://cdn.aliyun.18sjsk.com/videos/202001/18/5e22c630f4a5a91ebb5e5cc7/7deg3f/index.m3u8    
 https://oo.838av.com/addons/dplayer/?url=https://cdn.aliyun.18sjsk.com/videos/202001/22/5e22c631f4a5a91ebb5e5d84/4bd8d7/index.m3u8  

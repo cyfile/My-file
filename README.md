@@ -1,4 +1,7 @@
-https://oo.838av.com/addons/dplayer/?url=https://cdn.aliyun.18sjsk.com/videos/202002/11/5e33f0649f8d0e1e32cac896/06g0dg/index.m3u8   
+
+https://oo.838av.com/addons/dplayer/?url=https://cdn.aliyun.18sjsk.com/videos/202002/05/5e33f0649f8d0e1e32cac783/fa4ae1/index.m3u8  
+https://oo.838av.com/addons/dplayer/?url=https://cdn.aliyun.18sjsk.com/videos/202002/07/5e33f0649f8d0e1e32cac7bf/5868g7/index.m3u8
+   
 https://www.9xxx.net/video_57429   
 https://www.9xxx.net/video_37910   
 https://oo.838av.com/addons/dplayer/?url=https://cdn.aliyun.18sjsk.com/videos/202002/07/5e33f0649f8d0e1e32cac7b1/1b427f/index.m3u8  

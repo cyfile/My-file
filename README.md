@@ -47,10 +47,6 @@ https://xcdn.pornlib.com/mp4_lq/593cb4926c3a6282a39b2b1408b9b1c0.mp4?cdn_hash=90
 assignDetectionsToTracks   
 buffer
 
-https://verystream.com/stream/KNPEY8BUooy
-https://www.feizl.com/html/85178_5.htm
-
-好玩的数学：不可思议的e
 
 MSDN98\SAMPLES\VC98\SDK\SDKTOOLS\SPY\APP\SPYFUNCS.H 
 改dll

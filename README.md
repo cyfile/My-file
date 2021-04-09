@@ -36,35 +36,15 @@ https://www.pornlib.com/video/sweet-japanese-teen-in-lingerie-gets-trained-in-ha
 assignDetectionsToTracks   
 buffer
 
-
-MSDN98\SAMPLES\VC98\SDK\SDKTOOLS\SPY\APP\SPYFUNCS.H 
-改dll
-
-
-   1  mathworks shipin  
-   2  stock   
-   3  puguji  
-   4  kongzhixitongshipin  
-
-
 琢石成器—Windows 环境下32位汇编程序设计
+
+-----------------------------------------
+
 
 BlzDecPlayerTechResearched
 
------------------------------------------
-404790489@qq.com
-@acer19840602@
-
-https://us.battle.net/download/getInstaller?os=win&installer=Warcraft-III-Public-Test-Setup.exe
-
-https://us.battle.net/download/getInstaller?os=win&installer=Warcraft-III-Setup.exe
-
-https://www.battle.net/download/getInstallerForGame?os=win&locale=enUS&version=LIVE&gameProgram=WARCRAFT_3
 
 -----------------------------------------
-
-
-Computer\HKEY_CURRENT_USER\Software\Blizzard Entertainment\Warcraft III
 
 原来是 0804
 0409

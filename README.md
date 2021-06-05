@@ -59,3 +59,15 @@ BlzDecPlayerTechResearched
 系统为中文
 "InstallLanguage"="0804"
 "Default"="0804"
+
+-----------------------------------------
+
+新手学逆向破解，160个CrackMe简单演示【1-40】
+2020-02-17 20:20:35
+新手刚开始学习逆向破解知识，记录一下，破解爱好者都可以加入我创建的QQ群 105732329 ，内有一些我整理的觉得好用的脱壳破解工具，欢迎大家一起交流学习
+第41-80个在这里 av96346905
+
+matlab 与 aria2 通信
+https://ziahamza.github.io/webui-aria2/
+
+selenium

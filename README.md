@@ -71,3 +71,5 @@ matlab 与 aria2 通信
 https://ziahamza.github.io/webui-aria2/
 
 selenium
+
+adb Android 开发者模式

@@ -1,4 +1,5 @@
-https://stream.cdnfinder.xyz/embed.html#6872304a42365868
+https://streamsb.net/play/o29cyp2u84k5?auto=0&referer=&poster=https://cdnfinder.xyz/files/stars-310.jpg
+
 https://player.javfree.la/embed.html#6872344b43717668
 
 https://cache60.vidoza.net/nvl4cvkmeqeeieno3xervg5knjgru6ck76uwvlhwgkhluj73fcd4kw5y2gsq/v.mp4

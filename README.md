@@ -1,3 +1,4 @@
+https://streamsb.net/embed-o29cyp2u84k5.html?poster=https://cdnfinder.xyz/files/stars-310.jpg
 https://streamsb.net/play/o29cyp2u84k5?auto=0&referer=&poster=https://cdnfinder.xyz/files/stars-310.jpg
 
 https://player.javfree.la/embed.html#6872344b43717668

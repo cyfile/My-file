@@ -1,5 +1,4 @@
 https://www33.ff-01.com/token=PDJ4dtgPQpUzs7cXbpAW4w/1631187715/42.230.0.0/11/c/23/79bd53f65eeb83cb6e983e771a93423c-360p.mp4
-https://embed.media/v/8godee281p9
 
 https://streamsb.net/embed-o29cyp2u84k5.html?poster=https://cdnfinder.xyz/files/stars-310.jpg
 https://streamsb.net/play/o29cyp2u84k5?auto=0&referer=&poster=https://cdnfinder.xyz/files/stars-310.jpg

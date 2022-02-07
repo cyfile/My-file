@@ -1,4 +1,4 @@
-https://fvs.io/redirector?token=UHFMRzFuL1I2bUUzN0lUS1kzUHN1SDBScmVYaUhJMS9NSG1UZ1h3M0lxeTQ5SFdEVEIxbzcyd1VIK1c4R093WnphVVd1a3JxRXlGV05ML05GbGVUc3lxd0MrbmFmWnp6dUFxME9HaHF6K1pMb2p3ZVZHVmoxMUZJa05makVqTHNFY0E3VUFiaDlyS0pUcFFSTFovQklaU2dVMVVTcXBSSnBRPT06WHNtVHIycmpqOTZZdnVzclVTdzdCUT09Shyg
+https://www806.ff-02.com/token=jyFS_Z2mxY8mWJOgemxeQg/1644269158/216.218.0.0/176/e/16/17c5df6f877b7a45ba93e5a26338d16e-480p.mp4
 
 
 https://streamsb.net/embed-jfb5ipacpnkd.html?poster=https://cdnfinder.xyz/files/oae-207.jpg

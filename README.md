@@ -1,4 +1,3 @@
-https://www806.ff-02.com/token=jyFS_Z2mxY8mWJOgemxeQg/1644269158/216.218.0.0/176/e/16/17c5df6f877b7a45ba93e5a26338d16e-480p.mp4
 
 
 https://streamsb.net/embed-jfb5ipacpnkd.html?poster=https://cdnfinder.xyz/files/oae-207.jpg
@@ -38,9 +37,8 @@ https://javfinder.la/movie/watch/soe-793-uncensored-dirty-girl-kotomi-nagisa-x-c
 
 
 
-https://embed.media/v/yx93kkgjxqo   
 https://feurl.com/v/yx93kkgjxqo   
-https://embed.media/v/7qo7nn-p0w9
+https://feurl.com/v/7qo7nn-p0w9
 
 
 https://smartshare.tv/f/g3658h-63k7me08
